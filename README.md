@@ -1,6 +1,6 @@
 # React Notes App
 
-This is a simple web-based notes application built with React-MDE, Firebase, Vite, and React-Spit.
+This is a simple web-based notes application built with React-MDE, Firebase, Vite, and React-Split.
 
 ## Features
 
